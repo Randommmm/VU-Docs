@@ -42,7 +42,7 @@ This prompt may appear after major Windows Updates or hardware changes on your c
 
 ### I get an "An error occurred while communicating with Origin" error while linking my account
 
-First, make sure that you are logged into Origin fully and retry. If that doesn't help, close VU, restart Origin, and try again. If that still doesn't help, try restarting your computer.
+First, make sure that you are logged into Origin fully and retry. If that doesn't help, close VU, restart Origin, and try again. If that still doesn't help, try restarting your computer. Launching Origin.exe via a shortcut will not work, ensure you are opening Origin via the original .exe in the Origin folder.
 
 ### I get returned to the main menu after joining a server
 
